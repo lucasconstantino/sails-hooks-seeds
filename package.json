@@ -2,7 +2,7 @@
   "name": "sails-hooks-seeds",
   "version": "0.0.1",
   "description": "A simple database seeding hook for the Sails.js framework.",
-  "main": "index.js",
+  "main": "api/hooks/seeds.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
