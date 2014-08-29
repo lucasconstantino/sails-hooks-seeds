@@ -1,0 +1,9 @@
+
+########################
+# IGNORE
+########################
+
+node_modules
+node_modules/*
+botConfig.js
+
