@@ -1,5 +1,5 @@
-Sails Seeds
-===========
+Sails Seeds Hook
+================
 
 A simple database seeding hook for the Sails.js framework.
 
