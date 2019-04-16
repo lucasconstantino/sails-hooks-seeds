@@ -1,6 +1,8 @@
 Sails Seeds Hook
 ================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lucasconstantino/sails-hooks-seeds.svg)](https://greenkeeper.io/)
+
 A simple database seeding hook for the Sails.js framework.
 
 ## Install
